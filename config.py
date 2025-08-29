@@ -5,7 +5,7 @@ API_ID = int(os.environ.get("API_ID", "21404189"))
 API_HASH = os.environ.get("API_HASH", "bd7028cc6f1bad77cd8e53023bf895b6")
 
 # Bot token
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8434337760:AAFKQvjOHBFTiM_zdz-jaDgR_J8YdPl7Iow")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8262822749:AAF9yWDK6Z5KSd3zQ0UO9Sh7zF4DeXpX2EY")
 
 # Workers
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
